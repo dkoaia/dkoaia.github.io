@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dkoaia.github.io/sitemap/sitemap.txt
